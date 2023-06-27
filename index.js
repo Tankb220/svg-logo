@@ -1,6 +1,6 @@
 const unserInput = require("./lib/userInput");
 const createSVG = require("./lib/createSVG");
-const writeToFile = require("./lib/writeToFile");
+const writeToFile = require("./lib/writeToFile.js");
 
 function main (){
     unserInput()
