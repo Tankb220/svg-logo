@@ -5,6 +5,7 @@ This application enables users to enter inputs inot a inquirer prompt in order t
 
 ## The Challenge 
 Build a Node.js command-line that takes user inputs to generate a SVG logo. 
+The application includes Triangles, Circles, and Squares classes, as well as test for each class using Jest. 
 
 ## Instructions
 1. clone the repository and copy it into source code editor 
