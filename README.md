@@ -15,13 +15,13 @@ Build a Node.js command-line that takes user inputs to generate a SVG logo.
 
 ## Picture example 
 1. picture of index.js 
-!("images/svg-img-1.png")
+!(/images/svg-img-1.png)
 
 2. picture of logo.svg after quiries have been made
-!(images/svg-img-3.png)
+!(/images/svg-img-3.png)
 
-3. final product
-!(images/svg-img-2.png)
+3. final product with text being white, shape being square, and shape color being red
+!(/images/svg-img-2.png)
 
 
 ### video example
