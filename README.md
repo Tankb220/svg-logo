@@ -17,17 +17,17 @@ Build a Node.js command-line that takes user inputs to generate a SVG logo.
 **Example #1**
 
 The following image shows the node index.js with the quiry being answered.
-!(/images/svg-img-1.png)
+![images shows the terminal node index.js being filled out](/images/svg-img-1.png)
 
  **Example #2**
 
  This image show the logo.svg page that is made after filling out the quiries. 
-!(/images/svg-img-3.png)
+![Image shows the logo.svg page](/images/svg-img-3.png)
 
 **Example #3**
 
 This shows the final product, with white letters, square shape, and red background.
-!(/images/svg-img-2.png)
+![Image shows red square, white letters in it](/images/svg-img-2.png)
 
 
 ### video example
