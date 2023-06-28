@@ -14,13 +14,19 @@ Build a Node.js command-line that takes user inputs to generate a SVG logo.
 5. Once completed a SVG file named "logo svg" will be created 
 
 ## Picture example 
-1. picture of index.js 
+**Example #1**
+
+The following image shows the node index.js with the quiry being answered.
 !(/images/svg-img-1.png)
 
-2. picture of logo.svg after quiries have been made
+ **Example #2**
+
+ This image show the logo.svg page that is made after filling out the quiries. 
 !(/images/svg-img-3.png)
 
-3. final product with text being white, shape being square, and shape color being red
+**Example #3**
+
+This shows the final product, with white letters, square shape, and red background.
 !(/images/svg-img-2.png)
 
 
