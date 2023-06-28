@@ -15,7 +15,7 @@ Build a Node.js command-line that takes user inputs to generate a SVG logo.
 
 ## Picture example 
 1. picture of index.js 
-[Alt text](images/svg-img-1.png)nges\svg-logo\images\svg-img-1.png
+(images/svg-img-1.png)
 
 ### video example
 https://drive.google.com/file/d/1hiegGWNNqb5anVaaNJ9EVCQtAdrsxMyz/view
